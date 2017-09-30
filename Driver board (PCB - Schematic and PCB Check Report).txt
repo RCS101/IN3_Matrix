@@ -1,0 +1,19 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File:        C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board (PCB - Schematic and PCB Check Report).txt
+Report Written:     Sunday, January 08, 2017
+Project Path:       C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board.prj
+Design Path:        C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board.pcb
+Design Title:       
+Created:            23/12/2016 14:41:38
+Last Saved:         08/01/2017 14:55:33
+Editing Time:       10870 min
+Units:              mm (precision 1)
+
+
+Checking integrity of Schematic and Pcb designs in project "Driver board"
+=========================================================================
+
+
+End Of Report.

@@ -1,0 +1,19 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File:        C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board (PCB - Forward Design Changes Report).txt
+Report Written:     Sunday, January 08, 2017
+Project Path:       C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board.prj
+Design Path:        C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board.pcb
+Design Title:       
+Created:            23/12/2016 14:41:38
+Last Saved:         08/01/2017 14:55:33
+Editing Time:       10870 min
+Units:              mm (precision 1)
+
+Disconnected pin "R41-2" from net "GND".
+
+Connected pin "R41-2" to net "+5V".
+
+
+End Of Report.

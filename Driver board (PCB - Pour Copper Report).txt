@@ -1,0 +1,15 @@
+Pour Copper Report
+------------------
+
+Report File:        C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board (PCB - Pour Copper Report).txt
+Report Written:     Sunday, January 08, 2017
+Project Path:       C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board.prj
+Design Path:        C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board.pcb
+Design Title:       
+Created:            23/12/2016 14:41:38
+Last Saved:         08/01/2017 15:12:31
+Editing Time:       10879 min
+Units:              mm (precision 1)
+
+
+End Of Report.

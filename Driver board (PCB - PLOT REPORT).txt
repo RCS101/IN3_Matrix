@@ -1,0 +1,207 @@
+PLOT REPORT
+-----------
+
+Report File:        C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board (PCB - PLOT REPORT).txt
+Report Written:     Sunday, January 08, 2017
+Project Path:       C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board.prj
+Design Path:        C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board.pcb
+Design Title:       
+Created:            23/12/2016 14:41:38
+Last Saved:         08/01/2017 15:21:22
+Editing Time:       10907 min
+Units:              mm (precision 1)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    2.4 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 2.4 absolute in inches.
+    No zero suppression.
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\IN-3 driver\Plots1\Driver board - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D11    Round 8.00
+    D14    Round 10.00
+    D96    Round 1.00
+    D134   Round 6.00
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\IN-3 driver\Plots1\Driver board - Top Copper.gbr
+
+    Layers:
+    ------------------
+    Top Copper
+    Board Outlines
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 5.00
+    D14    Round 10.00
+    D15    Round 78.74
+    D71    Rectangle 39.40 X 43.30  Rotation 90
+    D22    Rectangle 39.40 X 43.30
+    D80    Round 56.00
+    D84    Round 48.00
+    D135   Rectangle 39.00 X 52.00  Rotation 90
+    D136   Square 60.00
+    D137   Round 11.81
+    D138   Round 19.69
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\IN-3 driver\Plots1\Driver board - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D139   Rectangle 49.00 X 62.00  Rotation 90
+    D140   Square 70.00
+    D141   Rectangle 49.40 X 53.30
+    D142   Round 88.74
+    D143   Rectangle 49.40 X 53.30  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\IN-3 driver\Plots1\Driver board - Bottom mask.gbr
+
+    Layers:
+    ---------------
+    Bottom mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D86    Round 84.74
+    D90    Round 62.00
+    D92    Round 54.00
+    D96    Round 1.00
+    D100   Rectangle 45.40 X 49.30  Rotation 45
+    D102   Rectangle 45.40 X 49.30  Rotation 90
+    D144   Square 66.00
+    D145   Rectangle 21.75 X 45.37  Rotation 135
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\IN-3 driver\Plots1\Driver board - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D10    Round 5.00
+    D14    Round 10.00
+    D15    Round 78.74
+    D19    Rectangle 39.40 X 43.30  Rotation 45
+    D71    Rectangle 39.40 X 43.30  Rotation 90
+    D80    Round 56.00
+    D84    Round 48.00
+    D136   Square 60.00
+    D137   Round 11.81
+    D138   Round 19.69
+    D146   Rectangle 15.75 X 39.37  Rotation 135
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\IN-3 driver\Plots1\Driver board - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D11    Round 8.00
+
+NC Drill Output
+===============
+
+C:\Users\Robin\Documents\Creative projects\IN-3 driver\Plots1\Driver board - Drill Data - [Through Hole].drl
+
+    Output:
+    -----------------------------
+    Plated Round Drill Holes
+    Unplated Round Drill Holes
+    Plated Slots
+    Unplated Slots
+    Plated Board Outlines
+    Unplated Board Outlines
+
+    Tool  Size       Count   ID  (Plated/Unplated)
+    -------------------------------------------------------
+    T001  00.0240 in 22    K
+    T002  00.0250 in 5
+    T003  00.0320 in 13    B
+    T004  00.0350 in 16    F
+    T005  00.0433 in 32    Q
+    -------------------------------------------------------
+    Total            88
+    -------------------------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\Robin\Documents\Creative projects\IN-3 driver\Plots1\Driver board - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    32    Y      100  Round B
+    35    Y      100  Round F
+    24    Y      100  Round K
+    43    Y      100  Round Q
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D95    Round 100.00
+
+End Of Report.

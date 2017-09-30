@@ -1,0 +1,203 @@
+Design Rule Check Report
+------------------------
+
+Report File:        C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board (PCB - Design Rule Check Report).txt
+Report Written:     Sunday, January 08, 2017
+Project Path:       C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board.prj
+Design Path:        C:\Users\Robin\Documents\Creative projects\IN-3 driver\Driver board.pcb
+Design Title:       
+Created:            23/12/2016 14:41:38
+Last Saved:         08/01/2017 15:05:53
+Editing Time:       10877 min
+Units:              mm (precision 1)
+
+
+Results
+=======
+
+Pad to Board Error (P-B) between (483.9 485.2) and (482.6 485.2) on Layer "[All]".
+    Error between Component Pad Q1.1 (Net 'N0175') and Board, Gap is 1.2 needs to be 2.5.
+Pad to Board Error (P-B) between (483.9 483.3) and (482.6 483.3) on Layer "[All]".
+    Error between Component Pad Q1.2 (Net 'GND') and Board, Gap is 1.2 needs to be 2.5.
+Pad to Board Error (P-B) between (484.5 518.3) and (482.6 518.3) on Layer "[All]".
+    Error between Component Pad Q9.1 (Net 'N0202') and Board, Gap is 1.8 needs to be 2.5.
+Pad to Board Error (P-B) between (485.6 518.3) and (485.6 520.6) on Layer "[All]".
+    Error between Component Pad Q9.1 (Net 'N0202') and Board, Gap is 2.2 needs to be 2.5.
+Pad to Board Error (P-B) between (484.5 516.4) and (482.6 516.4) on Layer "[All]".
+    Error between Component Pad Q9.2 (Net 'GND') and Board, Gap is 1.8 needs to be 2.5.
+Pad to Board Error (P-B) between (524.4 523.1) and (524.4 525.1) on Layer "[All]".
+    Error between Component Pad PL5.1 (Net 'GND') and Board, Gap is 1.9 needs to be 2.5.
+Pad to Board Error (P-B) between (525.9 522.1) and (528.1 522.1) on Layer "[All]".
+    Error between Component Pad PL5.1 (Net 'GND') and Board, Gap is 2.1 needs to be 2.5.
+Pad to Board Error (P-B) between (525.9 520.6) and (528.2 521.5) on Layer "[All]".
+    Error between Component Pad PL5.2 (Net 'GND') and Board, Gap is 2.4 needs to be 2.5.
+Pad to Board Error (P-B) between (484.2 487.6) and (482.6 487.6) on Layer "[All]".
+    Error between Component Pad R17.2 (Net 'N0175') and Board, Gap is 1.5 needs to be 2.5.
+Pad to Board Error (P-B) between (485.0 512.1) and (482.6 512.1) on Layer "[All]".
+    Error between Component Pad R25.2 (Net 'N0202') and Board, Gap is 2.4 needs to be 2.5.
+Pad to Board Error (P-B) between (530.6 510.1) and (532.6 510.1) on Layer "[All]".
+    Error between Component Pad R32.1 (Net 'GND') and Board, Gap is 1.9 needs to be 2.5.
+Pad to Board Error (P-B) between (483.4 505.7) and (482.6 505.7) on Layer "[All]".
+    Error between Component Pad PL1.1 (Net '+5V') and Board, Gap is 0.7 needs to be 2.5.
+Pad to Board Error (P-B) between (483.4 503.2) and (482.6 503.2) on Layer "[All]".
+    Error between Component Pad PL1.2 (Net 'N0128') and Board, Gap is 0.7 needs to be 2.5.
+Pad to Board Error (P-B) between (483.4 500.6) and (482.6 500.6) on Layer "[All]".
+    Error between Component Pad PL1.3 (Net 'N0129') and Board, Gap is 0.7 needs to be 2.5.
+Pad to Board Error (P-B) between (483.4 498.1) and (482.6 498.1) on Layer "[All]".
+    Error between Component Pad PL1.4 (Net 'N0147') and Board, Gap is 0.7 needs to be 2.5.
+Pad to Board Error (P-B) between (483.4 495.6) and (482.6 495.6) on Layer "[All]".
+    Error between Component Pad PL1.5 (Net 'GND') and Board, Gap is 0.7 needs to be 2.5.
+Pad to Board Error (P-B) between (531.9 504.2) and (532.6 504.2) on Layer "[All]".
+    Error between Component Pad PL2.1 (Net '+5V') and Board, Gap is 0.7 needs to be 2.5.
+Pad to Board Error (P-B) between (531.9 501.6) and (532.6 501.6) on Layer "[All]".
+    Error between Component Pad PL2.2 (Net 'N0128') and Board, Gap is 0.7 needs to be 2.5.
+Pad to Board Error (P-B) between (531.9 499.1) and (532.6 499.1) on Layer "[All]".
+    Error between Component Pad PL2.3 (Net 'N0129') and Board, Gap is 0.7 needs to be 2.5.
+Pad to Board Error (P-B) between (531.9 496.6) and (532.6 496.6) on Layer "[All]".
+    Error between Component Pad PL2.4 (Net 'N0147') and Board, Gap is 0.7 needs to be 2.5.
+Pad to Board Error (P-B) between (531.9 494.0) and (532.6 494.0) on Layer "[All]".
+    Error between Component Pad PL2.5 (Net 'GND') and Board, Gap is 0.7 needs to be 2.5.
+Pad to Board Error (P-B) between (499.1 476.4) and (499.1 475.1) on Layer "[All]".
+    Error between Component Pad CONN1.1 (Net 'HV') and Board, Gap is 1.2 needs to be 2.5.
+Pad to Board Error (P-B) between (501.6 476.4) and (501.6 475.1) on Layer "[All]".
+    Error between Component Pad CONN1.2 (Net 'HV') and Board, Gap is 1.2 needs to be 2.5.
+Pad to Board Error (P-B) between (504.2 476.4) and (504.2 475.1) on Layer "[All]".
+    Error between Component Pad CONN1.3 (Net 'HV') and Board, Gap is 1.2 needs to be 2.5.
+Pad to Board Error (P-B) between (506.7 476.4) and (506.7 475.1) on Layer "[All]".
+    Error between Component Pad CONN1.4 (Net 'HV') and Board, Gap is 1.2 needs to be 2.5.
+Pad to Board Error (P-B) between (509.3 476.4) and (509.3 475.1) on Layer "[All]".
+    Error between Component Pad CONN1.5 (Net 'HV') and Board, Gap is 1.2 needs to be 2.5.
+Pad to Board Error (P-B) between (511.8 476.4) and (511.8 475.1) on Layer "[All]".
+    Error between Component Pad CONN1.6 (Net 'HV') and Board, Gap is 1.2 needs to be 2.5.
+Pad to Board Error (P-B) between (514.4 476.4) and (514.4 475.1) on Layer "[All]".
+    Error between Component Pad CONN1.7 (Net 'HV') and Board, Gap is 1.2 needs to be 2.5.
+Pad to Board Error (P-B) between (516.9 476.4) and (516.9 475.1) on Layer "[All]".
+    Error between Component Pad CONN1.8 (Net 'HV') and Board, Gap is 1.2 needs to be 2.5.
+Pad to Board Error (P-B) between (499.1 523.2) and (499.1 525.1) on Layer "[All]".
+    Error between Component Pad CONN3.1 (Net 'HV') and Board, Gap is 1.8 needs to be 2.5.
+Pad to Board Error (P-B) between (501.6 523.2) and (501.6 525.1) on Layer "[All]".
+    Error between Component Pad CONN3.2 (Net 'HV') and Board, Gap is 1.8 needs to be 2.5.
+Pad to Board Error (P-B) between (504.2 523.2) and (504.2 525.1) on Layer "[All]".
+    Error between Component Pad CONN3.3 (Net 'HV') and Board, Gap is 1.8 needs to be 2.5.
+Pad to Board Error (P-B) between (506.7 523.2) and (506.7 525.1) on Layer "[All]".
+    Error between Component Pad CONN3.4 (Net 'HV') and Board, Gap is 1.8 needs to be 2.5.
+Pad to Board Error (P-B) between (509.3 523.2) and (509.3 525.1) on Layer "[All]".
+    Error between Component Pad CONN3.5 (Net 'HV') and Board, Gap is 1.8 needs to be 2.5.
+Pad to Board Error (P-B) between (511.8 523.2) and (511.8 525.1) on Layer "[All]".
+    Error between Component Pad CONN3.6 (Net 'HV') and Board, Gap is 1.8 needs to be 2.5.
+Pad to Board Error (P-B) between (514.4 523.2) and (514.4 525.1) on Layer "[All]".
+    Error between Component Pad CONN3.7 (Net 'HV') and Board, Gap is 1.8 needs to be 2.5.
+Pad to Board Error (P-B) between (516.9 523.2) and (516.9 525.1) on Layer "[All]".
+    Error between Component Pad CONN3.8 (Net 'HV') and Board, Gap is 1.8 needs to be 2.5.
+Pad to Board Error (P-B) between (484.1 490.6) and (482.6 490.6) on Layer "[All]".
+    Error between Component Pad R48.2 (Net 'IN1') and Board, Gap is 1.5 needs to be 2.5.
+Pad to Board Error (P-B) between (525.4 476.5) and (525.4 475.1) on Layer "[All]".
+    Error between Component Pad PL6.1 (Net 'HV') and Board, Gap is 1.3 needs to be 2.5.
+Pad to Board Error (P-B) between (492.9 476.6) and (492.9 475.1) on Layer "[All]".
+    Error between Component Pad PL7.1 (Net 'HV') and Board, Gap is 1.4 needs to be 2.5.
+Pad to Board Error (P-B) between (530.0 513.8) and (532.6 513.8) on Layer "[All]".
+    Error between Component Pad R79.1 (Net 'N0217') and Board, Gap is 2.5 needs to be 2.5.
+Pad to Board Error (P-B) between (530.0 515.6) and (532.6 515.6) on Layer "[All]".
+    Error between Component Pad R79.2 (Net 'TUBE16') and Board, Gap is 2.5 needs to be 2.5.
+Track to Board Error (T-B) between (484.1 494.8) and (482.6 494.8) on Layer "Bottom Copper".
+    Error between Track (Net 'GND') and Board, Gap is 1.2 needs to be 2.0.
+Track to Board Error (T-B) between (484.6 482.8) and (482.6 482.8) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Board, Gap is 1.8 needs to be 2.0.
+Track to Board Error (T-B) between (485.6 481.3) and (485.6 479.6) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Board, Gap is 1.5 needs to be 2.0.
+Track to Board Error (T-B) between (484.6 482.8) and (482.6 482.8) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Board, Gap is 1.8 needs to be 2.0.
+Track to Board Error (T-B) between (531.1 494.8) and (532.6 494.8) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Board, Gap is 1.2 needs to be 2.0.
+Track to Board Error (T-B) between (530.6 509.3) and (532.6 509.3) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Board, Gap is 1.7 needs to be 2.0.
+Track to Board Error (T-B) between (530.6 509.3) and (532.6 509.3) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Board, Gap is 1.7 needs to be 2.0.
+Track to Board Error (T-B) between (530.4 512.6) and (532.6 512.6) on Layer "Bottom Copper".
+    Error between Track (Net 'GND') and Board, Gap is 1.9 needs to be 2.0.
+Track to Board Error (T-B) between (530.6 509.3) and (532.6 509.3) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Board, Gap is 1.7 needs to be 2.0.
+Track to Board Error (T-B) between (484.1 494.8) and (482.6 494.8) on Layer "Bottom Copper".
+    Error between Track (Net 'GND') and Board, Gap is 1.3 needs to be 2.0.
+Via to Board Error (V-B) between (531.1 512.6) and (532.6 512.6) on Layer "[All]".
+    Error between Via (Net 'GND') and Board, Gap is 1.5 needs to be 2.5.
+Track to Board Error (T-B) between (484.6 491.1) and (482.6 491.1) on Layer "Top Copper".
+    Error between Track (Net 'IN1') and Board, Gap is 1.8 needs to be 2.0.
+Track to Board Error (T-B) between (484.1 505.0) and (482.6 505.0) on Layer "Bottom Copper".
+    Error between Track (Net '+5V') and Board, Gap is 1.3 needs to be 2.0.
+Track to Board Error (T-B) between (531.1 505.0) and (532.6 505.0) on Layer "Top Copper".
+    Error between Track (Net '+5V') and Board, Gap is 1.3 needs to be 2.0.
+Track to Board Error (T-B) between (484.1 505.0) and (482.6 505.0) on Layer "Bottom Copper".
+    Error between Track (Net '+5V') and Board, Gap is 1.2 needs to be 2.0.
+Track to Board Error (T-B) between (484.1 502.4) and (482.6 502.4) on Layer "Bottom Copper".
+    Error between Track (Net 'N0128') and Board, Gap is 1.3 needs to be 2.0.
+Track to Board Error (T-B) between (531.1 502.5) and (532.6 502.5) on Layer "Top Copper".
+    Error between Track (Net 'N0128') and Board, Gap is 1.3 needs to be 2.0.
+Track to Board Error (T-B) between (484.1 499.9) and (482.6 499.9) on Layer "Bottom Copper".
+    Error between Track (Net 'N0129') and Board, Gap is 1.3 needs to be 2.0.
+Track to Board Error (T-B) between (531.1 499.9) and (532.6 499.9) on Layer "Top Copper".
+    Error between Track (Net 'N0129') and Board, Gap is 1.3 needs to be 2.0.
+Track to Board Error (T-B) between (484.1 497.3) and (482.6 497.3) on Layer "Bottom Copper".
+    Error between Track (Net 'N0147') and Board, Gap is 1.3 needs to be 2.0.
+Track to Board Error (T-B) between (531.1 497.3) and (532.6 497.3) on Layer "Top Copper".
+    Error between Track (Net 'N0147') and Board, Gap is 1.3 needs to be 2.0.
+Track to Board Error (T-B) between (484.6 484.7) and (482.6 484.7) on Layer "Top Copper".
+    Error between Track (Net 'N0175') and Board, Gap is 1.8 needs to be 2.0.
+Track to Board Error (T-B) between (484.4 489.1) and (482.6 489.1) on Layer "Top Copper".
+    Error between Track (Net 'N0175') and Board, Gap is 1.6 needs to be 2.0.
+Track to Board Error (T-B) between (483.9 514.6) and (482.6 514.6) on Layer "Top Copper".
+    Error between Track (Net 'N0202') and Board, Gap is 1.1 needs to be 2.0.
+Track to Board Error (T-B) between (512.8 477.3) and (512.8 475.1) on Layer "Top Copper".
+    Error between Track (Net 'HV') and Board, Gap is 1.9 needs to be 2.0.
+Track to Board Error (T-B) between (524.6 477.1) and (524.6 475.1) on Layer "Bottom Copper".
+    Error between Track (Net 'HV') and Board, Gap is 1.8 needs to be 2.0.
+Track to Board Error (T-B) between (527.6 480.1) and (528.5 479.2) on Layer "Bottom Copper".
+    Error between Track (Net 'HV') and Board, Gap is 1.1 needs to be 2.0.
+
+Number of errors found : 69
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.
